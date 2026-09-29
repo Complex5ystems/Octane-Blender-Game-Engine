@@ -9,7 +9,7 @@ https://github.com/Complex5ystems/GI-MOD
 After a while i realised it started to become a fight with UPBGE for better graphics and Path-Tracing
 which led me to founding OBGE (Octane Blender Game Engine). OBGE is a game engine written from scratch 
 in python on top of the bpy Blender API for ease of use. OBGE is still in early development and will be 
-receiving updates constantly for optimisation after full stable release (soon).
+receiving updates constantly for optimisation after full stable release (currently on nightly).
 
 Thank you.</br>
 ~Complex5ystems
